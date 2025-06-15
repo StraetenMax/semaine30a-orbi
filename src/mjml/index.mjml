@@ -14,15 +14,9 @@
     </mj-raw>
     <mj-attributes>
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
-      <mj-class name="T30-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
-      <mj-class name="T30-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="300"/>
-      <mj-class name="T20-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="20px" line-height="35px" font-weight="500"/>
-      <mj-class name="T18-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="25px" font-weight="500"/>
-      <mj-class name="T15-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="22px" font-weight="500"/>
-      <mj-class name="T16-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="500"/>
-      <mj-class name="T15-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="18px" font-weight="300"/>
-      <mj-class name="T12-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="13px" font-weight="400"/>
-      <mj-class name="T9-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="9px" line-height="11px" font-weight="300"/>
+      <mj-class name="T32-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
+      <mj-class name="T26-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="35px" font-weight="500"/>
+      <mj-class name="T17-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
       <mj-button padding="0" inner-padding="10px 45px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
       <mj-class name="cT1" color="#2c262d"/>
       <mj-class name="bgT1" background-color="#2c262d"></mj-class>
@@ -45,15 +39,21 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section>
-      <mj-column width="100%">
-        <mj-text>Découvrez notre sélection Orbi WiFi 6</mj-text>
-        <mj-image src="./images/ambianceOrbi.jpg" alt=""></mj-image>
+    <mj-section mj-class="bgB" padding="5px">
+      <mj-column width="100%" padding="20px 40px">
+        <mj-text align="center" mj-class="T32-300 cTW" letter-spacing="2px">Découvrez notre sélection Orbi WiFi 6</mj-text>
       </mj-column>
+    </mj-section>
+    <mj-section mj-class="bgW" padding="0">
       <mj-column width="100%">
-        <mj-text>Systèmes Mesh Orbi WiFi 6</mj-text>
-        <mj-text>Ne ratez pas ces offres très spéciales sur notre sélection de Systèmes Mesh Orbi WiFi 6 Tri band</mj-text>
-        <mj-text>La technologie Tri band vous permet de télécharger, streamer, jouer et bien plus encore sur des vitesses WiFi ultra-rapides partout chez vous et pour tous vos appareils connectés.</mj-text>
+        <mj-image padding="0" width="700px" src="./images/ambianceOrbi.jpg" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="bgW" padding="15px 25px">
+      <mj-column width="100%" padding="10px" border="1px solid #CECECE">
+        <mj-text align="center" padding="0" padding-bottom="20px" mj-class="T26-500 cB" letter-spacing="0.5px">Systèmes Mesh Orbi WiFi 6</mj-text>
+        <mj-text align="center" padding="0" padding-bottom="20px" mj-class="T17-500" letter-spacing="0.5px">Ne ratez pas ces <strong>offres très spéciales</strong> sur notre sélection de <strong>Systèmes Mesh Orbi WiFi 6 Tri band</strong>&nbsp;!</mj-text>
+        <mj-text align="center" padding="0" mj-class="T17-500" letter-spacing="0.5px"><strong>La technologie Tri band</strong> vous permet de télécharger, streamer, jouer et bien plus encore sur des vitesses WiFi ultra-rapides partout chez vous et pour tous vos appareils connectés.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
