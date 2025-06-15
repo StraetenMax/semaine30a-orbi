@@ -38,12 +38,156 @@
     <mj-section padding="24px 30px" mj-class="bgT1">
       <mj-group>
         <mj-column vertical-align="middle">
-          <mj-image align="left" padding="0" width="130px" src="./images/white+NGLogotype.png" alt="logo Netgear en noir"/>
+          <mj-image align="left" padding="0" width="130px" src="./images/NetgearStoreWhite.png" alt="logo Netgear en noir"/>
         </mj-column>
         <mj-column vertical-align="middle">
           <mj-text align="right" padding="0" mj-class="T9-400" color="#ababab" text-transform="uppercase" letter-spacing="2px"><a style="text-decoration:none;color:#ababab;" href="#">version en ligne&nbsp;&#x23f5;</a></mj-text>
         </mj-column>
       </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text>Découvrez notre sélection Orbi WiFi 6</mj-text>
+        <mj-image src="./images/ambianceOrbi.jpg" alt=""></mj-image>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text>Systèmes Mesh Orbi WiFi 6</mj-text>
+        <mj-text>Ne ratez pas ces offres très spéciales sur notre sélection de Systèmes Mesh Orbi WiFi 6 Tri band</mj-text>
+        <mj-text>La technologie Tri band vous permet de télécharger, streamer, jouer et bien plus encore sur des vitesses WiFi ultra-rapides partout chez vous et pour tous vos appareils connectés.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Orbi AX6000 : le meilleur WiFi </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="50%">
+        <mj-image src="./images/2orbi10.jpg" alt=""></mj-image>
+        <mj-text>Système Mesh Orbi WiFi 6 AX6000</mj-text>
+        <mj-text>(RBK852) jusqu'à 460m²</mj-text>
+        <mj-text>799,99€ 789,99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="./images/3orbi30.jpg" alt=""></mj-image>
+        <mj-text>Système Mesh Orbi WiFi 6 AX6000</mj-text>
+        <mj-text>(RBK853) jusqu'à 690m²</mj-text>
+        <mj-text>1099,99€ 1069,99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="./images/4orbi80.jpg" alt=""></mj-image>
+        <mj-text>Système Mesh Orbi WiFi 6 AX6000</mj-text>
+        <mj-text>(RBK854) jusqu'à 960m²</mj-text>
+        <mj-text>1549,99€ 1469,99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="./images/5orbi170.jpg" alt=""></mj-image>
+        <mj-text>Système Mesh Orbi WiFi 6 AX6000</mj-text>
+        <mj-text>(RBK855) jusqu'à 1150m²</mj-text>
+        <mj-text>1999,99€ 1829,99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="./images/panneauWiFi6.jpg" alt=""></mj-image>
+        <mj-text>Un meilleur WiFi. Partout chez vous.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="33.333333%">
+        <mj-image src="./images/vitesse.jpg" alt=""></mj-image>
+        <mj-text>Performances de pointe</mj-text>
+      </mj-column>
+      <mj-column width="33.333333%">
+        <mj-image src="./images/Securite.jpg" alt=""></mj-image>
+        <mj-text>Cybersécurité avec Netgear ArmorTM</mj-text>
+      </mj-column>
+      <mj-column width="33.333333%">
+        <mj-image src="./images/fibre.jpg" alt=""></mj-image>
+        <mj-text>Connexion de tous vos appareils</mj-text>
+      </mj-column>
+      <mj-column width="33.333333%">
+        <mj-image src="./images/batterie.jpg" alt=""></mj-image>
+        <mj-text>Plus d'autonomie pour vos appareils</mj-text>
+      </mj-column>
+      <mj-column width="33.333333%">
+        <mj-image src="./images/rj45.jpg" alt=""></mj-image>
+        <mj-text>Vitesses Gigabit là où vous en avez besoin</mj-text>
+      </mj-column>
+      <mj-column width="33.333333%">
+        <mj-image src="./images/partageConnexion.jpg" alt=""></mj-image>
+        <mj-text>Installation facile</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text>Orbi AX4200 : Rapide & puissant</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="50%">
+        <mj-image src="./images/2orbi100.jpg" alt=""></mj-image>
+        <mj-text>Système Mesh Orbi WiFi 6 AX4200</mj-text>
+        <mj-text>(RBK752) Jusqu'à 350m²</mj-text>
+        <mj-text>499,99€ 399,99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="./images/3orbi150.jpg" alt=""></mj-image>
+        <mj-text>Système Mesh Orbi WiFi 6 AX4200</mj-text>
+        <mj-text>(RBK753) Jusqu'à 525m²</mj-text>
+        <mj-text>699,99€ 559,99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="./images/4orbi240.jpg" alt=""></mj-image>
+        <mj-text>Système Mesh Orbi WiFi 6 AX4200</mj-text>
+        <mj-text>(RBK754) Jusqu'à 700m²</mj-text>
+        <mj-text>979,99€ 739,99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="./images/5orbi340.jpg" alt=""></mj-image>
+        <mj-text>Système Mesh Orbi WiFi 6 AX4200</mj-text>
+        <mj-text>(RBK755) Jusqu'à 875m²</mj-text>
+        <mj-text>1259,99€ 919,99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image src="./images/connexionSansFil.jpg" alt=""/>
+        <mj-text>... et bien plus encore sur le store Netgear</mj-text>
+        <mj-button>découvrir</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="50%">
+        <mj-image src="./images/logoNetgearBlack.png" alt=""></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-social>
+          <mj-social-element name="facebook" href="https://www.facebook.com/netgearfrance"></mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/NetgearFrance"></mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/netgearfrance/"></mj-social-element>
+          <mj-social-element name="youtube" href="https://www.youtube.com/user/NETGEARFrance"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Vous recevez cet e-mail car vous avez choisi de recevoir des communications NETGEAR. Si vous ne souhaitez plus recevoir ces communications, vous pouvez vous désabonner</mj-text>
+        <mj-text>Mettre à jour mon profil</mj-text>
+        <mj-text>Cet emailing a été envoyé par : %%Member_Busname%%</mj-text>
+        <mj-text>%%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%</mj-text>
+        <mj-text>NETGEAR France SAS, 2 rue de Marly, 78150 Le Chesnay</mj-text>
+        <mj-text>Pour recevoir nos e-mails, ajoutez l'adresse emarketing@e.netgear.com à votre carnet d'adresses.</mj-text>
+        <mj-text>Orbi et le logo NETGEAR sont des marques commerciales et/ou des marques déposées de NETGEAR, Inc. et/ou de ses filiales aux Etats-Unis et/ou dans d'autres pays. Les autres marques sont ici mentionnées à des fins d'identification uniquement et peuvent être des marques commerciales appartenant à leurs détenteurs respectifs. Les informations sont sujettes à changement sans préavis. ©2021 NETGEAR. Tous droits réservés.</mj-text>
+      </mj-column>
     </mj-section>
   </mj-body>
 </mjml>
