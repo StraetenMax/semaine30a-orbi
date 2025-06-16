@@ -15,7 +15,7 @@
     <mj-attributes>
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
       <mj-class name="T32-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
-      <mj-class name="T26-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="35px" font-weight="500"/>
+      <mj-class name="T26-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="30px" font-weight="500"/>
       <mj-class name="T17-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
       <mj-button padding="0" inner-padding="10px 45px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
       <mj-class name="cT1" color="#2c262d"/>
@@ -91,36 +91,40 @@
         <mj-button mj-class="bgB cTW">J'en profite</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW" padding="0px">
       <mj-column>
-        <mj-image src="./images/panneauWiFi6.jpg" alt=""></mj-image>
-        <mj-text>Un meilleur WiFi. Partout chez vous.</mj-text>
+        <mj-image padding="0" width="700px" src="./images/panneauWiFi6.jpg" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column width="33.333333%">
-        <mj-image src="./images/vitesse.jpg" alt=""></mj-image>
-        <mj-text>Performances de pointe</mj-text>
+    <mj-section mj-class="bgW" padding-top="30px" padding-bottom="10px">
+      <mj-column>  
+        <mj-text padding="0" align="center" mj-class="T26-500 cT1" letter-spacing="1px">Un meilleur WiFi. Partout chez vous.</mj-text>
       </mj-column>
-      <mj-column width="33.333333%">
-        <mj-image src="./images/Securite.jpg" alt=""></mj-image>
-        <mj-text>Cybersécurité avec Netgear ArmorTM</mj-text>
+    </mj-section>
+    <mj-section mj-class="bgW" padding="0">
+      <mj-column width="33.333333%" padding="10px 10px 20px 10px">
+        <mj-image padding="0" padding-bottom="10px" width="2012px" src="./images/vitesse.jpg" alt=""/>
+        <mj-text align="center" padding="0" mj-class="T17-500 cT0" letter-spacing="0.5px">Performances de pointe</mj-text>
       </mj-column>
-      <mj-column width="33.333333%">
-        <mj-image src="./images/fibre.jpg" alt=""></mj-image>
-        <mj-text>Connexion de tous vos appareils</mj-text>
+      <mj-column width="33.333333%" padding="10px 10px 20px 10px">
+        <mj-image padding="0" padding-bottom="10px" width="212px" src="./images/Securite.jpg" alt=""/>
+        <mj-text align="center" padding="0" mj-class="T17-500 cT0" letter-spacing="0.5px">Cybersécurité avec Netgear ArmorTM</mj-text>
       </mj-column>
-      <mj-column width="33.333333%">
-        <mj-image src="./images/batterie.jpg" alt=""></mj-image>
-        <mj-text>Plus d'autonomie pour vos appareils</mj-text>
+      <mj-column width="33.333333%" padding="10px 10px 20px 10px">
+        <mj-image padding="0" padding-bottom="10px" width="212px" src="./images/fibre.jpg" alt=""/>
+        <mj-text align="center" padding="0" mj-class="T17-500 cT0" letter-spacing="0.5px">Connexion de tous vos appareils</mj-text>
       </mj-column>
-      <mj-column width="33.333333%">
-        <mj-image src="./images/rj45.jpg" alt=""></mj-image>
-        <mj-text>Vitesses Gigabit là où vous en avez besoin</mj-text>
+      <mj-column width="33.333333%" padding="10px 10px 20px 10px">
+        <mj-image padding="0" padding-bottom="10px" width="212px" src="./images/batterie.jpg" alt=""/>
+        <mj-text align="center" padding="0" mj-class="T17-500 cT0" letter-spacing="0.5px">Plus d'autonomie pour vos appareils</mj-text>
       </mj-column>
-      <mj-column width="33.333333%">
-        <mj-image src="./images/partageConnexion.jpg" alt=""></mj-image>
-        <mj-text>Installation facile</mj-text>
+      <mj-column width="33.333333%" padding="10px 10px 20px 10px">
+        <mj-image padding="0" padding-bottom="10px" width="212px" src="./images/rj45.jpg" alt=""/>
+        <mj-text align="center" padding="0" mj-class="T17-500 cT0" letter-spacing="0.5px">Vitesses Gigabit là où vous en avez besoin</mj-text>
+      </mj-column>
+      <mj-column width="33.333333%" padding="10px 10px 20px 10px">
+        <mj-image padding="0" padding-bottom="10px" width="212px" src="./images/partageConnexion.jpg" alt=""/>
+        <mj-text align="center" padding="0" mj-class="T17-500 cT0" letter-spacing="0.5px">Installation facile</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
